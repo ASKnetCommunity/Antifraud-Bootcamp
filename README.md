@@ -1,12 +1,16 @@
-# Title of your OER Project
-
-Use this `README.md` document to describe your Open Educational Resource (OER). The headlines / structure of this document should serve you as a suggestion. It is written in markdown syntax. 
+# Antifraud-Bootcamp
 
 ## Description of your OER
 Please use different **hierarchy levels of headlines** to structure your document!
 
 ## Learning Objective 
 Some random text.
+
+## Types of Fraud
+this is about different types of fraud, the document can be found here (link to the document)
+
+## Measures against Fraud
+this is about different measures against fraud, the document can be found here (link to the document)
 
 
 ## #ASKnet Logo 
