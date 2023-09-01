@@ -13,6 +13,6 @@ Credit card and mobile money fraud
 mail fraud
 social engineering fraud
 ## catergories of fraud
-civil fraud
+civil fraud and 
 criminal fraud
 
