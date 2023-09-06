@@ -8,6 +8,7 @@ Spam mails are an unsolicited messages sent in bulk by email. in most cases they
 Individuals may be subjected to receiving harassing emails from unknown sources or even emails demanding an individual to make their passwords accessible. In this cases individuals need to block this email addresses from accessing them and from this information users need to take precautions such as;
 Email filtering 
 Refers to organizing of emails in its specific criteria by applying anti spam techniques on but incoming and outgoing emails for example on a Gmail app automatically categorises emails as spam, promotional or social as pre users wish.for instance;
+![image](https://github.com/ijokua/Antifraud-Bootcamp/assets/99041009/07dd2307-9e57-4531-ac78-7a3d6675471c)
 
 
 ## Calls
