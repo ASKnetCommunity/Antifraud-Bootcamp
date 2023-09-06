@@ -12,6 +12,9 @@ Fraud is an act that is intended to deceive others with the aim of having a pers
 Credit card and mobile money fraud
 mail fraud
 social engineering fraud
+
+[**Types of Fraud**](types_of_fraud.md).
+
 ## catergories of fraud
 civil fraud and 
 criminal fraud
