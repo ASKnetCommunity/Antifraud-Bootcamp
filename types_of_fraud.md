@@ -9,8 +9,6 @@ Individuals may be subjected to receiving harassing emails from unknown sources 
 Email filtering 
 Refers to organizing of emails in its specific criteria by applying anti spam techniques on but incoming and outgoing emails for example on a Gmail app automatically categorises emails as spam, promotional or social as pre users wish.for instance;
 ![image](https://github.com/ijokua/Antifraud-Bootcamp/assets/99041009/07dd2307-9e57-4531-ac78-7a3d6675471c)
-
-
 ## Calls
 fraudsters may acquire your number from somewehere else, they give you calls, and they want to get money from you especially on allegations of you have won aprize competition which you havent participated in or even require you pay money to be able to get the prize money "you have won".
 other scenrios include blackmail calls that cocerives individuals sent money inorder to stop blackmails. 
