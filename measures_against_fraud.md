@@ -8,7 +8,10 @@ A vpn is a Virtual Private Network that establishes digital connection between y
 -Open the VPN app and sign in or login 
 -Connect to the server and you are all set.
 ## Antiviruses
-An antivirus software is designed to protect your device from any malware and spyware by scanning programs or files as they arrive to your device so as to determine if they are safe for example Norton 360,Kaspersky among others.individuals or users can be able to access downloads through this procedures;
+An antivirus software is designed to protect your device from any malware and spyware by scanning programs or files as they arrive to your device so as to determine if they are safe for example Norton 360,Kaspersky among others.
+![image](https://github.com/ijokua/Antifraud-Bootcamp/assets/99041009/33661e20-1a14-4fd4-9ca1-29966097f832)
+
+individuals or users can be able to access downloads through this procedures;
 Download antivirus application on a CD or even a USB drive.
 Unzip the file to access installation
 Find a file named install.exe,setup.exe or something similar
