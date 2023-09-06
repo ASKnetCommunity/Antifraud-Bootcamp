@@ -18,4 +18,13 @@ social engineering fraud
 ## catergories of fraud
 civil fraud and 
 criminal fraud
+## digital tool use
+identify safe digital tool use
+## migitation of chains and aveunues of fraud
+The mitigation of chains and avenues of fraud training tackles the process of shutting down these chains used by fraudsters 
+## effective utilization of media spaces
+media spaces are new methods of communication with novel and unforeseen uses and potentialities.
+  
+
+
 
