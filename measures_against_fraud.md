@@ -23,4 +23,7 @@ Agood suggestion starts with narrowing it down to two or three based on your nee
 one should also consider the accuracy of the search results, ease of use, whether they use cookies, how flexible the settings are, and whether you trust the organization.
 
 ## Creating safe password?
-no B-day, no first name! **Use smal and capital characters + numbers + additional characters!!**
+Users need to create safe passwords for instance; passwords that are long and have characters like numbers, comic signs and uppercase or even lowercase letters, no birthdays.
+Always check in security alerts from google to notify that its not you trying to access the email whenever need araises.
+![image](https://github.com/ijokua/Antifraud-Bootcamp/assets/99041009/14f04dfc-f9e5-4be3-b3e8-308e0562cbfb)
+
