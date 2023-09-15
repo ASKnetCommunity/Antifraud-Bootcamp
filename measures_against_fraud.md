@@ -1,8 +1,8 @@
-# Identify safe digital tools and how to use them
+# Identify Safe Digital Tools and How To Use Them
 Online and offline fraud happens within the spectrum of the digital devices used by individuals, this falls under both online and offline devices such as smartphones, mobile phones and computers or even laptops.This devices use specific tools for their effective functioning especially when accessing online platforms like social media and identifying safe digital tools to navigate these spaces is a vital concept for instance;
 Any individual or user can have a strong online privacy and safety by combining three digital tools such as;
 
-## virtual private network
+## Virtual Private Network
 A vpn is a Virtual Private Network that establishes digital connection between your computer and a remote server owned by a VPN provider creating a point to point tunnel that encrypts your personal data. Anyone seeking for a safer, free and more secured online experience could benefit from installing VPN.
 - Open the google play store and find your chosen VPN providers app such as Norton, Kaspersky etc.
 - Press the install button and wait for the installation to finish
@@ -22,7 +22,7 @@ double click to start installation process
 ## Private Search Engine
 It enables an users to search the internet while protecting your privacy. it involves no tracking for instance DuckDuckGo, Qwant and Start page
 
-## How to choose best search engine for privacy
+## How To Choose Best Search Engine For Privacy
 Agood suggestion starts with narrowing it down to two or three based on your needs and then reading the privacy policy for those brands( types of search engine)this will tell you how safe your data with information of whether or not the company sells customer data to third parties. You should also find out how the search engine generates revenue.
 one should also consider the accuracy of the search results, ease of use, whether they use cookies or not, how flexible the settings are and finally whether you trust the organization.
 
