@@ -25,7 +25,8 @@ The mitigation of chains and avenues of fraud training tackles the process of sh
 ## Effective Utilization of media spaces
 Media spaces are new methods of communication with novel and unforeseen uses and potentialities.
   
-Number Of Participants 25
+## Number Of Participants 
+25 participants
 ## Tools Used
 Internet bundles
 whiteboard
