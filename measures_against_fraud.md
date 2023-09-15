@@ -4,20 +4,20 @@ Any individual or user can have a strong online privacy and safety by combining 
 
 # Virtual Private Network
 A vpn is a Virtual Private Network that establishes digital connection between your computer and a remote server owned by a VPN provider creating a point to point tunnel that encrypts your personal data. Anyone seeking for a safer, free and more secured online experience could benefit from installing VPN.
-Open the google play store and find your chosen VPN providers app such as Norton, Kaspersky etc,
-Press the install button and wait for the installation to finish,
-Open the VPN app and sign in or login and
-Connect to the server and you are all set.
+-Open the google play store and find your chosen VPN providers app such as Norton, Kaspersky etc
+-Press the install button and wait for the installation to finish
+-Open the VPN app and sign in or login 
+-Connect to the server and you are all set.
 
 # Antiviruses
 An antivirus software is designed to protect your device from any malware and spyware by scanning programs or files as they arrive to your device so as to determine if they are safe for example Norton 360,Kaspersky among others.
 ![image](https://github.com/ijokua/Antifraud-Bootcamp/assets/99041009/33661e20-1a14-4fd4-9ca1-29966097f832)
 
--Individuals or users can be able to access downloads through this procedures;
--Download antivirus application on a CD or even a USB drive,
--unzip the file to access installation,
--find a file named install.exe,setup.exe or something similar and
--double click to start installation process
+Individuals or users can be able to access downloads through this procedures;
+Download antivirus application on a CD or even a USB drive,
+unzip the file to access installation,
+find a file named install.exe,setup.exe or something similar and
+double click to start installation process
 
 # Private Search Engine
 It enables an users to search the internet while protecting your privacy. it involves no tracking for instance DuckDuckGo, Qwant and Start page
