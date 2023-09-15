@@ -10,20 +10,20 @@ Fraud is an act that is intended to deceive others with the aim of having a pers
 
 ## Types of Fraud
 Credit card and mobile money fraud
-mail fraud
-social engineering fraud
+Mail fraud
+Social engineering fraud
 
 [**Types of Fraud**](types_of_fraud.md).
 
-## catergories of fraud
+## Catergories of fraud
 civil fraud and 
 criminal fraud
-## digital tool use
+## Digital tool use
 identify safe digital tool use
-## migitation of chains and aveunues of fraud
+## Migitation of chains and aveunues of fraud
 The mitigation of chains and avenues of fraud training tackles the process of shutting down these chains used by fraudsters 
-## effective utilization of media spaces
-media spaces are new methods of communication with novel and unforeseen uses and potentialities.
+## Effective utilization of media spaces
+Media spaces are new methods of communication with novel and unforeseen uses and potentialities.
   
 
 
