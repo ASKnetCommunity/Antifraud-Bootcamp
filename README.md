@@ -15,14 +15,14 @@ Social engineering fraud
 
 [**Types of Fraud**](types_of_fraud.md).
 
-## Catergories of fraud
+## Catergories Of Fraud.
 civil fraud and 
 criminal fraud
-## Digital tool use
+## Digital Tool Use.
 identify safe digital tool use
-## Migitation of chains and aveunues of fraud
+## Migitation Of Chains And Aveunues Of Fraud.
 The mitigation of chains and avenues of fraud training tackles the process of shutting down these chains used by fraudsters 
-## Effective utilization of media spaces
+## Effective Utilization of media spaces
 Media spaces are new methods of communication with novel and unforeseen uses and potentialities.
   
 
