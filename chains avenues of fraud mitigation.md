@@ -1,9 +1,7 @@
 # Chains and Avenues Of Fraud
 Chains and avenues of fraud have insightfully become broader in everyday contexts for instance; analogue fraud/ offline fraud and digital fraud have both taken shape in most societies thus individuals becoming prone to these vices.  
 
-
-
-# Methods Of Fraud
+## Methods Of Fraud
 These chains and avenues of fraud include;
 
 ## Cellular Phone Diversion 
@@ -19,7 +17,6 @@ Pharming, whaling, deceptive,angler, clone and spear phsing, email.
 With email phsihing attacks are sent by email. The crooks will register a fake domian that mimics a genuine organisation and sends thousands of generic requests. This fake account may entail characters substitutions like 'r' and 'n' next to each other to create'rn'instead of 'n'for example;
 
 ![example phisihng mail](images/phising_mail.png)
-
 and therefore, any recipient might see the word ‘Amazon’ in the sender’s address and assume that it was a genuine email.
 
 ## Clone Phishing
