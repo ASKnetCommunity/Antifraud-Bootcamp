@@ -10,7 +10,8 @@ Spreading lies about or posting embarrassing photos or videos of someone on soci
 sending hurtful, abusive or threatening messages, images or videos via messaging platforms( unlawful expression of opinion),
 impersonating someone and sending mean messages to others on their behalf or through fake accounts and
 Face-to-face bullying and cyberbullying can often happen alongside each other.All this is harmful as it may result into low self esteem among others.
-![Group leader conducting peer to peer learning sessions on digital bullying and taking notes of participants contributions](digital-bullying-peer-sessions.jpg)
+![group conducting peer to peer learning session on digital bullying](images/digital-bullying-peer-session.jpg)
+
 ## Precautions.
 Users of media spaces ought to overcome this challenges through;
 Setting up privacy controls so as to restrict who can see your online profiles and message you are more vitual( maximum privacy),
