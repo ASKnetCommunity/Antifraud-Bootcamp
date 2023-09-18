@@ -7,15 +7,20 @@ Media spaces and devices have been wrongfully used by individuals therefore trai
 ## Digital Bullying.
 Digital bullying is bullying with the use of digital technologies. It can take place on social media, messaging platforms, gaming platforms and mobile phones. It is repeated behaviour, aimed at scaring, angering or shaming those who are targeted.Users of media spaces often encounter cyber bullying from counterparts as its a virtual platform of connecting people together aiming at working together examples include;
 
-Spreading lies about or posting embarrassing photos or videos of someone on social media,
-sending hurtful, abusive or threatening messages, images or videos via messaging platforms( unlawful expression of opinion),
-impersonating someone and sending mean messages to others on their behalf or through fake accounts and
-Face-to-face bullying and cyberbullying can often happen alongside each other.All this is harmful as it may result into low self esteem among others.
+- Spreading lies about or posting embarrassing photos or videos of someone on social media.
+ 
+- Sending hurtful, abusive or threatening messages, images or videos via messaging platforms( unlawful expression of opinion).
+  
+- Impersonating someone and sending mean messages to others on their behalf or through fake accounts.
+  
+- Face-to-face bullying and cyberbullying can often happen alongside each other.All this is harmful as it may result into low self esteem among others.
 ![Group session](images/effective-utilization-of-media-spaces-on-digital-bullying.jpg)
 
 
 ## Precautions.
 Users of media spaces ought to overcome this challenges through;
-Setting up privacy controls so as to restrict who can see your online profiles and message you are more vitual( maximum privacy),
-creating awareness by educating people about the negative effects and related legal issues associated with digital bullying and
-encourage reporting thus seeking help from others like parents, school authorities, and in cases of threats of harm, from law agencies.
+- Setting up privacy controls so as to restrict who can see your online profiles and messages( maximum privacy).
+  
+- Creating awareness by educating people about the negative effects and related legal issues associated with digital bullying.
+  
+- Encourage reporting thus seeking help from others like parents, school authorities, and in cases of threats of harm, from law agencies.
