@@ -39,7 +39,7 @@ On individuals in public places especially with the aim of getting their passwor
 
 ## Spy software / Virus.
 These are malicious softwares that may enter your computer,gather information and data about you with the sole purpose of forwarding to third parties. This is dangerous as individuals may subrcibe to these softwares for example Redshell spyware without knowning and important information like passwords, pins and locations may be availed easily.
-![Trainer explaining various examples of fraud](examples-of-types-of-fraud.jpg)
+
 
 ## Individuals can detect  when their devices have spysoftware;
 - When their devices are slower than usual and brower homepage changes unexpectly,
