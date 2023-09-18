@@ -15,6 +15,7 @@ Digital bullying is bullying with the use of digital technologies. It can take p
 - Impersonating someone and sending mean messages to others on their behalf or through fake accounts.
   
 - Face-to-face bullying and cyberbullying can often happen alongside each other.All this is harmful as it may result into low self esteem among others.
+
 ![Group session](images/effective-utilization-of-media-spaces-on-digital-bullying.jpg)
 
 
