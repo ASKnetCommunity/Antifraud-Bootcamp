@@ -6,7 +6,8 @@ Media spaces and devices have been wrongfully used by individuals therefore trai
 ## Forms/ Challenges Surrounded By Media Spaces.  
 ## Digital Bullying.
 Digital bullying is bullying with the use of digital technologies. It can take place on social media, messaging platforms, gaming platforms and mobile phones. It is repeated behaviour, aimed at scaring, angering or shaming those who are targeted.Users of media spaces often encounter cyber bullying from counterparts as its a virtual platform of connecting people together aiming at working together examples include;
-Spreading lies about or posting embarrassing photos or videos of someone on social media,
+
+"-Spreading lies about or posting embarrassing photos or videos of someone on social media_",
 sending hurtful, abusive or threatening messages, images or videos via messaging platforms( unlawful expression of opinion),
 impersonating someone and sending mean messages to others on their behalf or through fake accounts and
 Face-to-face bullying and cyberbullying can often happen alongside each other.All this is harmful as it may result into low self esteem among others.
