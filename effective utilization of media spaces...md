@@ -1,6 +1,7 @@
 ## Vices Of Media Spaces.
 Media spaces are electronic settings in which groups of people can work together, even when they are not present in the same place and time by elements of using intergrated videos, audios and computers for example online video games or even meeting rooms are a signifcant features of media spaces currently.
 Media spaces and devices have been wrongfully used by individuals therefore training and equipping media users with the relevant skills to navigate this spaces effectively and respectfully is a priority.
+
 ![Participants learning how to navigate media spaces](images/media-space-navigation.jpg)
 
 ## Forms/ Challenges Surrounded By Media Spaces.  
