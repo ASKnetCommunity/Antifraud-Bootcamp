@@ -1,10 +1,10 @@
 # Types of Fraud
-## Credit card and mobile money fraud
+**Credit card and mobile money fraud**
 These occurrences are based on the access of confidential information of an individual by fraudsters such as the pins or passwords to their bank or mobile money accounts. This information may be made available unknowingly by user on scenerios such as online shopping, inquiries at banks or even during use of the services. however individuals can overcome this challenge of the access of this information through several ways such as;
 declining messages from unknow sources that require an individual to avail pins or password,
 use of highly encrypted passwords for bank and mobile pins.
 ![Trainer explaining various examples of fraud](examples-of-types-of-fraud.jpg)
-## Spam mails
+**Spam mails**
 Spam mails are an unsolicited messages sent in bulk by email. In most cases they want to have your credit card information.
 Individuals may be subjected to receiving harassing emails from unknown sources or even emails demanding an individual to make their passwords accessible, In this cases individuals need to block this email addresses from accessing them and from this information users need to take precautions such as;
 ![A participant demonstrating email filtering](spam-mail-filter.jpg)
