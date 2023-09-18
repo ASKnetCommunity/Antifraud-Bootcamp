@@ -1,7 +1,7 @@
 # Chains and Avenues Of Fraud
-## Chains and avenues of fraud have insightfully become broader in everyday contexts for instance; analogue fraud/ offline fraud and digital fraud have both taken shape in most societies thus individuals becoming prone to these vices.  
+Chains and avenues of fraud have insightfully become broader in everyday contexts for instance; analogue fraud/ offline fraud and digital fraud have both taken shape in most societies thus individuals becoming prone to these vices.  
 
-![trainer scribbling](images/richard-blackboard.png)
+
 
 # Methods Of Fraud
 These chains and avenues of fraud include;
