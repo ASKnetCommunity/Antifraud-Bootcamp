@@ -2,7 +2,7 @@
 Media spaces are electronic settings in which groups of people can work together, even when they are not present in the same place and time by elements of using intergrated videos, audios and computers for example online video games or even meeting rooms are a signifcant features of media spaces currently.
 Media spaces and devices have been wrongfully used by individuals therefore training and equipping media users with the relevant skills to navigate this spaces effectively and respectfully is a priority.
 
-![Participants learning how to navigate media spaces](images/media-space-navigation.jpg)
+![Participants learning how to navigate media spaces](/Images/media-space-navigation.JPG)
 
 ## Forms/ Challenges Surrounded By Media Spaces.  
 ## Digital Bullying.
@@ -16,7 +16,7 @@ Digital bullying is bullying with the use of digital technologies. It can take p
   
 - Face-to-face bullying and cyberbullying can often happen alongside each other.All this is harmful as it may result into low self esteem among others.
 
-![Group leader conducting peer learning session on digital bullying](images/digital-bullying-peer-session.jpg)
+![Group leader conducting peer learning session on digital bullying](/Images/digital_bullying.jpg)
 
 
 ## Precautions.
