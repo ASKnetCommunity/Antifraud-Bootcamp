@@ -7,11 +7,10 @@ A vpn is a Virtual Private Network that establishes digital connection between y
 -_Open the google play store and find your chosen VPN providers app such as Norton, Kaspersky_ etc
 -_Press the install button and wait for the installation to finish_
 -_Open the VPN app and sign in or login_ 
--_Connect to the server and you are all set_.
+-"Connect to the server and you are all set".
 
 ### Antiviruses.
 An antivirus software is designed to protect your device from any malware and spyware by scanning programs or files as they arrive to your device so as to determine if they are safe for example Norton 360,Kaspersky among others.
-![image](https://github.com/ijokua/Antifraud-Bootcamp/assets/99041009/33661e20-1a14-4fd4-9ca1-29966097f832)
 
 Individuals or users can be able to access downloads through this procedures;
 Download antivirus application on a CD or even a USB drive,
