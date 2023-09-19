@@ -1,5 +1,5 @@
 # Types of Fraud.
-This may take shape inform of things like; license fraud,relationship fraud,email fraud and social media fraud among others.
+This may take shape inform of things like; fake scholarships, relationship fraud, bank account theft and social media fraud among others.
 
 ## Credit card and mobile money fraud.
 These occurrences are based on the access of confidential information of an individual by fraudsters such as the pins or passwords to their bank or mobile money accounts. This information may be made available unknowingly by user on scenerios such as online shopping, inquiries at banks or even during use of the services. However individuals can overcome this challenge of the access of this information through several ways such as;
