@@ -9,8 +9,7 @@ These occurrences are based on the access of confidential information of an indi
 ## Spam mails.
 Spam mails are an unsolicited messages sent in bulk by email. In most cases they want to have your credit card information.
 Individuals may be subjected to receiving harassing emails from unknown sources or even emails demanding an individual to make their passwords accessible, In this cases individuals need to block this email addresses from accessing them and from this types of information users need to take precautions such as;
-
-![A participant demonstrating email filtering](spam-mail-filter.jpg)
+![Demonstrating_email_filter](Images/Email_filter.jpg)
 
 ## Email filtering. 
 Refers to organizing of emails in its specific criteria by applying anti spam techniques on both incoming and outgoing emails for example on a Gmail app automatically categorises emails as spam, promotional or social as pre users wish.for instance;
