@@ -4,7 +4,7 @@ These occurrences are based on the access of confidential information of an indi
 - Declining messages from unknow sources that require an individual to avail pins or password.
 - Use of highly encrypted passwords for bank and mobile pins.
   
-![Trainer explaining various examples of fraud](examples-of-types-of-fraud.jpg)
+![Categorizing_types_of_fraud](Images/Types_of_fraud.jpg)
 
 ## Spam mails.
 Spam mails are an unsolicited messages sent in bulk by email. In most cases they want to have your credit card information.
