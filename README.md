@@ -16,8 +16,7 @@ Social engineering fraud
 [**Types of Fraud**](types_of_fraud.md).
 
 ## Catergories Of Fraud.
-civil fraud and  
-criminal fraud
+civil fraud and criminal fraud
 ## Digital Tool Use.
 identify safe digital tool use
 ## Migitation Of Chains And Aveunues Of Fraud.
