@@ -9,15 +9,15 @@ Some random text.
 Fraud is an act that is intended to deceive others with the aim of having a personal or financial gain Or A dishonest representation by an individual with the intentions of causing loss to another or gain for themselves through online platform or even offline modes.
 
 ## Types of Fraud
-- Credit card and mobile money fraud
-- Mail fraud
-- Social engineering fraud
+Credit card and mobile money fraud
+Mail fraud
+Social engineering fraud
 
 [**Types of Fraud**](types_of_fraud.md).
 
 ## Catergories Of Fraud.
-- Civil fraud  
-- Criminal fraud
+civil fraud and  
+criminal fraud
 ## Digital Tool Use.
 identify safe digital tool use
 ## Migitation Of Chains And Aveunues Of Fraud.
@@ -28,13 +28,13 @@ Media spaces are new methods of communication with novel and unforeseen uses and
 ## Number Of Participants 
 25 participants
 ## Tools Used
-- Internet bundles
-- Whiteboard
-- Laptops
-- HMDI Cables
-- Tables
-- Chairs 
-- Stationary like markers,pens,books
+Internet bundles
+whiteboard
+laptops
+HMDI Cables
+tables
+chairs and 
+markers,pens,books
 
 
 
