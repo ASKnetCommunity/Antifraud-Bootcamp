@@ -22,7 +22,7 @@ These are schemes aimed at tricking you into providing sensitive information lik
 With email phsihing attacks are sent by email. The crooks will register a fake domian that mimics a genuine organisation and sends thousands of generic requests. This fake account may entail characters substitutions like 'r' and 'n' next to each other to create'rn'instead of 'n'
 and therefore, any recipient might see the word ‘Amazon’ in the sender’s address and assume that it was a genuine email.For example;
 
-![example phisihng mail](images/phising_mail.png)
+![Example_of_email_phising](Images/Email_Phising.jpg)
 
 ## Clone Phishing.
 A clone phishing attack involves a hacker making an identical copy of a message the recipient already received. They may include something like “resending this” and put a malicious link in the email for instance a fraudster may pretend to carry on a conversation that had happened before and endup sealing deals in business environments.
