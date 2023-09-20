@@ -44,3 +44,4 @@ Users need to create safe passwords for instance;
 
 - Always check in security alerts from google to notify that its not you trying to access the email whenever need araises.
 
+![Demonstrating_creating_of_safe_password](Images/Safe_Password.jpg)
