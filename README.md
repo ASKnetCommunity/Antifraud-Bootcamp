@@ -28,13 +28,13 @@ Media spaces are new methods of communication with novel and unforeseen uses and
 ## Number Of Participants 
 25 participants
 ## Tools Used
-Internet bundles
-whiteboard
-laptops
-HMDI Cables
-tables
-chairs and
-markers,pens,books
+- Internet bundles
+- Whiteboard
+- Laptops
+- HMDI Cables
+- Tables
+- Chairs and
+- Stationary like markers,pens,books
 
 
 
