@@ -22,7 +22,8 @@ other scenrios include blackmail calls that cocerives individuals sent money ino
 
 ## Click bait / Strange Websites.
 Clikbaits are mostly inform of websites that publishes perusavie content that tricks people to consume your content making them to believe it will be better than what it really is for example websites or social media channels headlines or videos with entizing information or deals like"no startup capital needed start abusiness and earn from it now".
-![image](https://github.com/ijokua/Antifraud-Bootcamp/assets/99041009/423b6f2c-0edb-4ca1-a95c-16ffa37dcd05)
+
+![Example_of_click_bait](Images/Click_bait.jpg)
 
 ## Precautions.
 Individuals can minimize this traps through;
