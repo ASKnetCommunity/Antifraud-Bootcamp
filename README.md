@@ -13,11 +13,9 @@ Fraud is an act that is intended to deceive others with the aim of having a pers
 
 [Types of Fraud](types_of_fraud.md).
 
-## Catergories Of Fraud - maybe delete
-civil fraud and 
-criminal fraud
-
-## Digital Tool Use. - maybe delete
+## Catergories Of Fraud.
+civil fraud and criminal fraud
+## Digital Tool Use.
 identify safe digital tool use
 
 ## Migitation Of Chains And Aveunues Of Fraud
@@ -39,13 +37,13 @@ link
 25 participants
 
 ## Tools Used
-* Internet bundles
-* whiteboard
-* laptops
-* HMDI Cables
-* tables
-* chairs 
-* markers,pens,books
+Internet bundles
+whiteboard
+laptops
+HMDI Cables
+tables
+chairs and 
+markers,pens,books
 
 
 
