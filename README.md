@@ -31,7 +31,7 @@ Media spaces are new methods of communication with novel and unforeseen uses and
 ## Measures against fraud
 Measures aganist fraud can only be vital when induals and users embark on the use of safe digital tools.
 
-[Use_of_safe_digital_tools]()
+[Use of safe digital tools]()
 
 
 ## Number Of Participants 
