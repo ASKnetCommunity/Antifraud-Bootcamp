@@ -37,13 +37,13 @@ link
 25 participants
 
 ## Tools Used
-Internet bundles
-whiteboard
-laptops
-HMDI Cables
-tables
-chairs and 
-markers,pens,books
+- Internet bundles
+- Whiteboard
+- Laptops
+- HMDI Cables
+- Tables
+- Chairs and 
+- Markers,pens,books
 
 
 
