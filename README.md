@@ -31,7 +31,7 @@ Media spaces are new methods of communication with novel and unforeseen uses and
 ## Measures against fraud
 Measures aganist fraud can only be vital when induals and users embark on the use of safe digital tools.
 
-link
+https://github.com/ijokua/Antifraud-Bootcamp/blob/main/measures_against_fraud.md#identify-safe-digital-tools-and-how-to-use-them
 
 ## Number Of Participants 
 25 participants
