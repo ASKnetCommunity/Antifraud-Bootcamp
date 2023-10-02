@@ -1,5 +1,5 @@
 # Identify Safe Digital Tools and How To Use Them.
-Online and offline fraud happens within the spectrum of the digital devices used by individuals, this falls under both online and offline devices such as smartphones, mobile phones and computers or even laptops.This devices use specific tools for their effective functioning especially when accessing online platforms like social media and identifying safe digital tools to navigate these spaces is a vital concept for instance;
+Online and offline fraud happens within the spectrum of the digital devices used by individuals, this falls under both online and offline devices such as smartphones, mobile phones and computers or even laptops.This devices use specific tools for their effective functioning especially when accessing online platforms like social media and identifying safe digital tools to navigate these spaces is a vital measure aganist fraud for instance;
 Any individual or user can have a strong online privacy and safety by combining three digital tools such as;
 
 ## Virtual Private Network.
