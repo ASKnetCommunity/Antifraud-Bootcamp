@@ -29,7 +29,7 @@ Media spaces are new methods of communication with novel and unforeseen uses and
 [Effective Utilization of media spaces](effective-utilization-of-media-spaces.md)
 
 ## Measures against fraud
-short describtion 
+Measures aganist fraud can only be vital when induals and users embark on the use of safe digital tools.
 
 link
 
